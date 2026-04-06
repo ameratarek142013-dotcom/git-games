@@ -291,6 +291,8 @@
 
 }
 
+
+
 .games .first-part .inner .image1:hover::after,
 .games .first-part .inner .image2:hover::after,
 .games .first-part .inner .image3:hover::after,
@@ -758,8 +760,8 @@
         left: 30%;
     }
 
-    .team p,
-    .contact p {
+    .team .head p,
+    .contact .head p {
         text-align: center !important;
         font-size: 16px !important;
     }
